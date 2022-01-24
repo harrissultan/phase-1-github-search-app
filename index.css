@@ -11,3 +11,10 @@
 ul {
   list-style: none;
 }
+.Ulist{
+  text-align: left;
+}
+.dp{
+  height: auto;
+  width: 100px;
+}
